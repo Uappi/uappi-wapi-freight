@@ -1,0 +1,5 @@
+packages:
+  - name: uappi-wapi-freight
+    actions:
+      - name: simulate
+        runtime: nodejs:default
