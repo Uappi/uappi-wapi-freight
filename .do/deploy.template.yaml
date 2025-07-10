@@ -1,9 +1,5 @@
 spec:
   name: uappi-wapi-freight
-  envs:
-      - key: UAPPI_URL
-        value: "PUT HERE YOUR UAPPI STORE URL"
-        scope: RUN_TIME
   features:
     - buildpack-stack=ubuntu-22
   functions:
