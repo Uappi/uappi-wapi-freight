@@ -6,7 +6,7 @@ functions:
     branch: main
     deploy_on_push: true
     repo: Uappi/uappi-wapi-freight
-  name: uappi-wapi-freight
+  name: nodejs-api
   routes:
   - path: /
   source_dir: /
